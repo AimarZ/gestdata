@@ -1,0 +1,17 @@
+LICENSE.txt
+README.txt
+setup.py
+gestdata/__init__.py
+gestdata/correlmutua.py
+gestdata/dataset.py
+gestdata/discretization.py
+gestdata/extras.py
+gestdata/graphics.py
+gestdata/metrics.py
+gestdata/readwritedf.py
+gestdata/stannorm.py
+gestdata.egg-info/PKG-INFO
+gestdata.egg-info/SOURCES.txt
+gestdata.egg-info/dependency_links.txt
+gestdata.egg-info/requires.txt
+gestdata.egg-info/top_level.txt

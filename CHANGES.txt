@@ -1,0 +1,4 @@
+Version 0.1.0
+2023-10-17
+- First release
+- Compatible with Python 3

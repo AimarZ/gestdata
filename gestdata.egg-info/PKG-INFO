@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: gestdata
+Version: 0.1.0
+Summary: Este paquete incluye una clase propia y varias funciones para manejar datasets y hacer análisis sobre ellos
+Home-page: Indicar una URL para el paquete...
+Author: Aimar Zabala Vergara
+Author-email: aimar.zabala@ehu.eus
+License: LICENSE.txt
+Platform: UNKNOWN
+License-File: LICENSE.txt
+
+gestdata: Manejo y anÃ¡lisis de datasets hecho fÃ¡cil
+-----------------
+
+1- Â¿QuÃ© ofrece la librerÃ­a?
+
+La librerÃ­a gestdata ofrece implementaciones que facilitan el manejo y el anÃ¡lisis de datos. EstÃ¡ pensado para ser utilizado
+sobre datos que tengan una estructura de vector o de tabla; principalmente, los conjuntos de Machine Learning. En la mayorÃ­a, 
+contiene funciones que transformaron los datos o que calculan diversas mÃ©tricas sobre ellos, como la entropÃ­a o la varianza.
+AdemÃ¡s, ofrece una implementaciÃ³n propia de una clase Dataset, que puede servir para guardar informaciÃ³n que contenga 
+muchas variables de una manera estructurada. 
+
