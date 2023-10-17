@@ -1,5 +1,5 @@
 gestdata: Manejo y análisis de datasets hecho fácil
------------------
+---------------------------------------------------
 
 1- ¿Qué ofrece la librería?
 
